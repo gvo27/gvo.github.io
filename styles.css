@@ -1,12 +1,5 @@
 p { color: white; }
 
-container.center {
-    margin: auto;
-    width: 50%;
-    border: 3px solid green;
-    padding: 10px;
-  }
-
 body {
     padding: 25px;
     background-color: black;
